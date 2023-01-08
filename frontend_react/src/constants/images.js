@@ -35,6 +35,9 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
+import xavhi from '../assets/xavier-hi-1.png';
+import xavhello from '../assets/xavier-hi-2.png';
+
 export default {
   email,
   mobile,
@@ -69,4 +72,6 @@ export default {
   nb,
   skype,
   spotify,
+  xavhi,
+  xavhello,
 };
